@@ -9,8 +9,8 @@
     ],
     "repositories": [
         {
-            "type": "path",
-            "url": "../job-shared"
+            "type": "vcs",
+            "url": "https://github.com/mohpablo/job-shared.git"
         }
     ],
     "license": "MIT",
